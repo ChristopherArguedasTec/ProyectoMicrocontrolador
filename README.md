@@ -70,7 +70,7 @@ Cada carpeta numerada es una entrada de la bitácora. Guarda los programas de es
 
 | # | Fecha | Entrada | Qué se logró |
 |---|---|---|---|
-| 00 | Antes del 20/10/2026 | [Prueba del sensor de color](00_prueba_color_esp32/BITACORA.md) | El ESP32 lee el APDS-9960 e identifica rojo, verde y azul en el Serial Monitor |
+| 00 | 14/10/2026 | [Prueba del sensor de color](00_prueba_color_esp32/BITACORA.md) | El ESP32 lee el APDS-9960 e identifica rojo, verde y azul en el Serial Monitor |
 | 01 | 20/10/2026 | [Demo de color por I2C](01_demo_color_i2c/BITACORA.md) | La Pi muestra el color que el ESP32 lee del APDS-9960, con interrupción del sensor |
 | 02 | 24/10/2026 | [Prueba de motores y drivers](02_prueba_motores_drivers/BITACORA.md) | Los 4 motores se mueven con 2 TB6612FNG, ya calibrados |
 | 03 | 01/11/2026 | [Seguidor de línea con INICIO y FIN](03_seguidor_inicio_fin/BITACORA.md) | Control PD, búsqueda de línea, paros de seguridad y mando desde la Pi |

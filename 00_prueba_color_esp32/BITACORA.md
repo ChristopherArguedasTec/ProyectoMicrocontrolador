@@ -1,4 +1,4 @@
-# 00. Prueba del sensor de color con el ESP32 (primera prueba, antes del 20/10/2026)
+# 00. Prueba del sensor de color con el ESP32 (14/10/2026)
 
 ## Objetivo
 Comprobar que el sensor APDS-9960 responde por I2C al ESP32 y que entrega lecturas útiles para distinguir rojo, verde y azul. Fue lo primero que se hizo en el proyecto, antes de conectar la Raspberry Pi.
